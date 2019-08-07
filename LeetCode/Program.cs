@@ -21,7 +21,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            _200 run = new _200();
+            _22 run = new _22();
             run.runCode();
         }
     }
